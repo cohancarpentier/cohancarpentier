@@ -2,7 +2,7 @@
 
 #### I'm a Front-End Engineer working in Quebec, Canada.
 
-- 🏢 I'm currently working at **LogMeIn**
+- 🏢 I'm currently working at **Shutterstock**
 - ⚙️ I use daily: `.ts`, `.tsx`, `.html`, `.js`, `.css`, `.svg`
 - 🌍 I'm mostly active within the **Material-UI Community**
 - 🌱 Learning all about **Open Source**
